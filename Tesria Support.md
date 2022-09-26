@@ -4,7 +4,7 @@ The official support page for the TESRIA app.
 
 
 
-If you ever need help regarding any issue with the TESRIA app, feel free to contact us at TESRIA@protonmail.com, or using the Issues page on this repository.
+If you ever need help regarding any issue with the TESRIA app, feel free to contact us at TESRIA.APP@gmail.com, or using the Issues page on this repository.
 
 
 
