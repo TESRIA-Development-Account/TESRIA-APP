@@ -11,7 +11,7 @@ If you ever need help regarding any issue with the TESRIA app, feel free to cont
 
 
 
-TESRIA is an app for iPads that enables a sleek infotainment experience for your rear passangers.
+TESRIA is an app for iPads that enables a sleek infotainment experience for rear passangers your Tesla car.
 
 Features of TESRIA include:
 
@@ -25,7 +25,7 @@ Features of TESRIA include:
 
 •	⁠A built in theater that includes Youtube, Disney+ and Netflix, so you dont have to leave the app if you want to watch a movie or a video, enabling a much more immersive experience
 
-•	⁠An entire board of controls for the Trunk, Frunk, Charge Port, and Car Lock, as well as vehicle name, motion status and battery percentage and charge status.
+•	⁠An entire board of controls for the exterior vehicle functions, as well as vehicle name, motion status, battery percentage and charge status.
 
 •	⁠A kids mode that hides the board of controls to minimize the risk of accidental command from younger ones
 
